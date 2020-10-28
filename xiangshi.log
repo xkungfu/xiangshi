@@ -1,29 +1,1007 @@
-Xiangshi Log: 2020-10-02 17:04:53,268 - INFO: Starting up Xiangshi
-Xiangshi Log: 2020-10-02 17:14:35,525 - INFO: Starting up Xiangshi
-Xiangshi Log: 2020-10-02 17:19:40,829 - INFO: Starting up Xiangshi
-Xiangshi Log: 2020-10-02 17:24:03,482 - INFO: Starting up Xiangshi
-Xiangshi Log: 2020-10-02 17:25:17,098 - INFO: Starting up Xiangshi
-Xiangshi Log: 2020-10-02 17:26:25,070 - INFO: Starting up Xiangshi
-Xiangshi Log: 2020-10-02 17:29:30,278 - INFO: Starting up Xiangshi
-Xiangshi Log: 2020-10-02 17:34:29,212 - INFO: Starting up Xiangshi
-Xiangshi Log: 2020-10-02 21:55:12,447 - INFO: Starting up Xiangshi
-Xiangshi Log: 2020-10-02 21:55:47,926 - INFO: Starting up Xiangshi
-Xiangshi Log: 2020-10-02 21:56:51,486 - INFO: Starting up Xiangshi
-Xiangshi Log: 2020-10-02 21:57:02,464 - INFO: Finished Cossim Calculations. Used 10.557729482650757 seconds
-Xiangshi Log: 2020-10-03 12:33:00,263 - INFO: Starting up Xiangshi
-Xiangshi Log: 2020-10-03 12:33:18,334 - INFO: Finished Cossim Calculations. Used 12.168723344802856 seconds
-Xiangshi Log: 2020-10-03 12:55:14,582 - INFO: Starting up Xiangshi
-Xiangshi Log: 2020-10-03 12:56:15,975 - INFO: Starting up Xiangshi
-Xiangshi Log: 2020-10-03 12:59:45,052 - INFO: Starting up Xiangshi
-Xiangshi Log: 2020-10-03 13:05:29,734 - INFO: Starting up Xiangshi
-Xiangshi Log: 2020-10-03 13:07:36,880 - INFO: Starting up Xiangshi
-Xiangshi Log: 2020-10-03 13:08:26,551 - INFO: Starting up Xiangshi
-Xiangshi Log: 2020-10-03 13:09:24,863 - INFO: Starting up Xiangshi
-Xiangshi Log: 2020-10-03 13:12:16,063 - INFO: Starting up Xiangshi
-Xiangshi Log: 2020-10-03 13:12:30,870 - INFO: Finished Cossim Calculations. Used 14.80713939666748 seconds
-Xiangshi Log: 2020-10-03 13:18:36,627 - INFO: Starting up Xiangshi
-Xiangshi Log: 2020-10-03 13:18:47,687 - INFO: Finished Cossim Calculations. Used 11.060402631759644 seconds
-Xiangshi Log: 2020-10-03 13:18:59,597 - INFO: Starting up Xiangshi
-Xiangshi Log: 2020-10-03 13:46:22,745 - INFO: Starting up Xiangshi
-Xiangshi Log: 2020-10-03 13:46:50,474 - INFO: Starting up Xiangshi
-Xiangshi Log: 2020-10-03 13:47:06,977 - INFO: Starting up Xiangshi
+2020-09-30 18:51:29,491 - Xiangshi - INFO - Starting up Xiangshi
+2020-09-30 18:51:41,883 - Xiangshi - INFO - Finished Minhash Calculations. Used 12.391520023345947 seconds
+2020-09-30 18:51:53,264 - Xiangshi - INFO - Finished Simhash Calculations. Used 11.37904167175293 seconds
+2020-09-30 18:52:04,525 - Xiangshi - INFO - Finished Cossim Calculations. Used 11.254291772842407 seconds
+2020-09-30 19:00:09,473 - Xiangshi - WARNING - Starting up Xiangshi - Test
+2020-09-30 19:00:29,459 - Xiangshi - INFO - Finished Minhash Calculations. Used 19.985172986984253 seconds
+2020-09-30 19:00:51,098 - Xiangshi - INFO - Finished Simhash Calculations. Used 21.638386249542236 seconds
+2020-09-30 19:01:03,099 - Xiangshi - INFO - Finished Cossim Calculations. Used 11.998546123504639 seconds
+2020-09-30 19:01:08,381 - Xiangshi - WARNING - Starting up Xiangshi - Test
+2020-09-30 19:01:27,751 - Xiangshi - INFO - Finished Minhash Calculations. Used 19.360405206680298 seconds
+2020-09-30 19:01:40,494 - Xiangshi - INFO - Finished Simhash Calculations. Used 12.737575054168701 seconds
+2020-09-30 19:02:03,294 - Xiangshi - INFO - Finished Cossim Calculations. Used 22.791956663131714 seconds
+Time: 2020-10-01 08:22:29,811, Project: Xiangshi, Type: INFO, Message: Starting up Xiangshi
+Time: 2020-10-01 08:22:59,653, Project: Xiangshi, Type: INFO, Message: Finished Minhash Calculations. Used 29.841087341308594 seconds
+Time: 2020-10-01 08:23:23,428, Project: Xiangshi, Type: INFO, Message: Finished Simhash Calculations. Used 23.77175545692444 seconds
+Time: 2020-10-01 08:23:47,652, Project: Xiangshi, Type: INFO, Message: Finished Cossim Calculations. Used 24.219050645828247 seconds
+Xiangshi: 2020-10-01 13:11:09,843 - INFO: Starting up Xiangshi
+Xiangshi: 2020-10-01 13:11:28,622 - INFO: Finished Minhash Calculations. Used 18.77707552909851 seconds
+Xiangshi: 2020-10-01 13:11:59,000 - INFO: Finished Simhash Calculations. Used 30.376956701278687 seconds
+Xiangshi: 2020-10-01 13:12:29,059 - INFO: Finished Cossim Calculations. Used 30.057798862457275 seconds
+Xiangshi Log: 2020-10-03 13:48:33,603 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-03 13:48:40,903 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-03 15:49:20,930 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-03 15:49:31,133 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-03 15:49:33,383 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-03 15:49:48,055 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-03 15:53:29,193 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-03 15:53:39,591 - INFO: Finished Cossim Calculations. Used 10.397499084472656 seconds
+Xiangshi Log: 2020-10-03 15:55:25,389 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-04 16:51:50,098 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-04 16:52:02,141 - INFO: Finished Cossim Calculations. Used 12.026836395263672 seconds
+Xiangshi Log: 2020-10-04 18:47:21,352 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-04 18:47:58,348 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-04 18:49:22,171 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-04 18:56:15,722 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-04 18:57:17,107 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-04 18:57:31,424 - INFO: Finished Cossim Calculations. Used 14.316767930984497 seconds
+Xiangshi Log: 2020-10-05 17:01:25,383 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:02:34,292 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:17:02,471 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:17:27,242 - INFO: Finished Minhash Calculations. Used 24.769831657409668 seconds
+Xiangshi Log: 2020-10-05 17:17:49,967 - INFO: Finished Simhash Calculations. Used 22.724902868270874 seconds
+Xiangshi Log: 2020-10-05 17:18:14,059 - INFO: Finished Cossim Calculations. Used 24.090144157409668 seconds
+Xiangshi Log: 2020-10-05 17:19:30,228 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:19:48,044 - INFO: Finished Minhash Calculations. Used 17.815962553024292 seconds
+Xiangshi Log: 2020-10-05 17:20:12,337 - INFO: Finished  Calculations. Used 24.29354691505432 seconds
+Xiangshi Log: 2020-10-05 17:20:23,396 - INFO: Finished Cossim Calculations. Used 11.058454036712646 seconds
+Xiangshi Log: 2020-10-05 17:21:41,370 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:21:52,983 - INFO: Finished Minhash Calculations. Used 11.613568782806396 seconds
+Xiangshi Log: 2020-10-05 17:22:03,825 - INFO: Finished Simhash Calculations. Used 10.840369701385498 seconds
+Xiangshi Log: 2020-10-05 17:22:57,929 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:23:09,792 - INFO: Finished Minhash Calculations. Used 11.863497257232666 seconds
+Xiangshi Log: 2020-10-05 17:23:21,447 - INFO: Finished Simhash Calculations. Used 11.65477705001831 seconds
+Xiangshi Log: 2020-10-05 17:23:24,701 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:23:42,369 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:23:54,475 - INFO: Finished Minhash Calculations. Used 12.10631513595581 seconds
+Xiangshi Log: 2020-10-05 17:24:05,455 - INFO: Finished Simhash Calculations. Used 10.977581977844238 seconds
+Xiangshi Log: 2020-10-05 17:27:59,086 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:28:10,133 - INFO: Finished Minhash Calculations. Used 11.047476291656494 seconds
+Xiangshi Log: 2020-10-05 17:28:20,881 - INFO: Finished Simhash Calculations. Used 10.744933366775513 seconds
+Xiangshi Log: 2020-10-05 17:28:51,747 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:29:09,184 - INFO: Finished Minhash Calculations. Used 17.437596559524536 seconds
+Xiangshi Log: 2020-10-05 17:29:09,186 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:29:09,186 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:29:31,339 - INFO: Finished Simhash Calculations. Used 22.15216851234436 seconds
+Xiangshi Log: 2020-10-05 17:29:31,339 - INFO: Finished Simhash Calculations. Used 22.15216851234436 seconds
+Xiangshi Log: 2020-10-05 17:29:31,343 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:29:31,343 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:29:31,343 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:29:42,121 - INFO: Finished Cossim Calculations. Used 10.777679920196533 seconds
+Xiangshi Log: 2020-10-05 17:29:42,121 - INFO: Finished Cossim Calculations. Used 10.777679920196533 seconds
+Xiangshi Log: 2020-10-05 17:29:42,121 - INFO: Finished Cossim Calculations. Used 10.777679920196533 seconds
+Xiangshi Log: 2020-10-05 17:32:15,993 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:32:28,066 - INFO: Finished Minhash Calculations. Used 12.072450876235962 seconds
+Xiangshi Log: 2020-10-05 17:32:39,537 - INFO: Finished Simhash Calculations. Used 11.469106912612915 seconds
+Xiangshi Log: 2020-10-05 17:37:42,003 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:37:52,988 - INFO: Finished Minhash Calculations. Used 10.984938621520996 seconds
+Xiangshi Log: 2020-10-05 17:37:52,993 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:37:52,993 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:38:03,496 - INFO: Finished Simhash Calculations. Used 10.502635955810547 seconds
+Xiangshi Log: 2020-10-05 17:38:03,496 - INFO: Finished Simhash Calculations. Used 10.502635955810547 seconds
+Xiangshi Log: 2020-10-05 17:38:03,497 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:38:03,497 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:38:03,497 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:38:28,129 - INFO: Finished Cossim Calculations. Used 24.632089138031006 seconds
+Xiangshi Log: 2020-10-05 17:38:28,129 - INFO: Finished Cossim Calculations. Used 24.632089138031006 seconds
+Xiangshi Log: 2020-10-05 17:38:28,129 - INFO: Finished Cossim Calculations. Used 24.632089138031006 seconds
+Xiangshi Log: 2020-10-05 17:41:12,913 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:41:24,123 - INFO: Finished Minhash Calculations. Used 11.21004843711853 seconds
+Xiangshi Log: 2020-10-05 17:41:24,134 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:41:24,134 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:41:34,930 - INFO: Finished Simhash Calculations. Used 10.795292615890503 seconds
+Xiangshi Log: 2020-10-05 17:41:34,930 - INFO: Finished Simhash Calculations. Used 10.795292615890503 seconds
+Xiangshi Log: 2020-10-05 17:41:34,931 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:41:34,931 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:41:34,931 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:41:39,458 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:41:46,576 - INFO: Finished Cossim Calculations. Used 11.644488334655762 seconds
+Xiangshi Log: 2020-10-05 17:41:46,576 - INFO: Finished Cossim Calculations. Used 11.644488334655762 seconds
+Xiangshi Log: 2020-10-05 17:41:46,576 - INFO: Finished Cossim Calculations. Used 11.644488334655762 seconds
+Xiangshi Log: 2020-10-05 17:41:51,639 - INFO: Finished Minhash Calculations. Used 12.180640697479248 seconds
+Xiangshi Log: 2020-10-05 17:41:51,640 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:41:51,640 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:42:02,222 - INFO: Finished Simhash Calculations. Used 10.58202576637268 seconds
+Xiangshi Log: 2020-10-05 17:42:02,222 - INFO: Finished Simhash Calculations. Used 10.58202576637268 seconds
+Xiangshi Log: 2020-10-05 17:42:02,226 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:42:02,226 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:42:02,226 - INFO: Starting up Xiangshi
+---------------------------------------Xiangshi Log: 2020-10-05 17:42:22,400 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:42:32,865 - INFO: Finished Minhash Calculations. Used 10.465350151062012 seconds
+Xiangshi Log: 2020-10-05 17:42:32,872 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:42:32,872 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:42:42,770 - INFO: Finished Simhash Calculations. Used 9.897451639175415 seconds
+Xiangshi Log: 2020-10-05 17:42:42,770 - INFO: Finished Simhash Calculations. Used 9.897451639175415 seconds
+Xiangshi Log: 2020-10-05 17:42:42,776 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:42:42,776 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:42:42,776 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:42:52,755 - INFO: Finished Cossim Calculations. Used 9.978734493255615 seconds
+Xiangshi Log: 2020-10-05 17:42:52,755 - INFO: Finished Cossim Calculations. Used 9.978734493255615 seconds
+Xiangshi Log: 2020-10-05 17:42:52,755 - INFO: Finished Cossim Calculations. Used 9.978734493255615 seconds
+Xiangshi Log: 2020-10-05 17:46:35,467 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:46:47,570 - INFO: Finished Minhash Calculations. Used 12.103231191635132 seconds
+Xiangshi Log: 2020-10-05 17:46:47,573 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:47:08,620 - INFO: Finished Simhash Calculations. Used 21.04706072807312 seconds
+Xiangshi Log: 2020-10-05 17:47:08,626 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:47:36,617 - INFO: Finished Cossim Calculations. Used 27.990673303604126 seconds
+Xiangshi Log: 2020-10-05 17:48:23,537 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:48:35,661 - INFO: Finished Minhash Calculations. Used 12.124908447265625 seconds
+Xiangshi Log: 2020-10-05 17:48:35,665 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:48:46,177 - INFO: Finished Simhash Calculations. Used 10.511257410049438 seconds
+Xiangshi Log: 2020-10-05 17:48:46,184 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:48:56,578 - INFO: Finished Cossim Calculations. Used 10.39479684829712 seconds
+Xiangshi Log: 2020-10-05 17:55:34,021 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:56:00,401 - INFO: Finished Minhash Calculations. Used 26.379717350006104 seconds
+Xiangshi Log: 2020-10-05 17:56:00,406 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:56:26,144 - INFO: Finished Simhash Calculations. Used 25.737335443496704 seconds
+Xiangshi Log: 2020-10-05 17:56:26,147 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 17:56:55,827 - INFO: Finished Cossim Calculations. Used 29.680150747299194 seconds
+Xiangshi Log: 2020-10-05 18:06:17,663 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 18:06:40,057 - INFO: Finished Minhash Calculations. Used 22.394869804382324 seconds
+Xiangshi Log: 2020-10-05 18:07:01,142 - INFO: Finished Simhash Calculations. Used 21.084551334381104 seconds
+Xiangshi Log: 2020-10-05 18:09:35,957 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 18:10:07,885 - INFO: Finished Minhash Calculations. Used 31.92753767967224 seconds
+Xiangshi Log: 2020-10-05 18:10:37,365 - INFO: Finished Simhash Calculations. Used 29.474419355392456 seconds
+Xiangshi Log: 2020-10-05 18:10:57,073 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 18:11:18,696 - INFO: Finished Minhash Calculations. Used 21.62326192855835 seconds
+Xiangshi Log: 2020-10-05 18:11:39,159 - INFO: Finished Simhash Calculations. Used 20.459107160568237 seconds
+Xiangshi Log: 2020-10-05 18:15:00,442 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 18:15:17,197 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 18:16:30,153 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 18:16:41,167 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 18:16:49,783 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 18:17:10,399 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 18:17:31,960 - INFO: Finished Minhash Calculations. Used 21.560109853744507 seconds
+Xiangshi Log: 2020-10-05 18:17:52,260 - INFO: Finished Simhash Calculations. Used 20.292160987854004 seconds
+Xiangshi Log: 2020-10-05 18:18:13,775 - INFO: Finished Cossim Calculations. Used 21.50609588623047 seconds
+Xiangshi Log: 2020-10-05 18:18:57,712 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 18:19:19,359 - INFO: Finished Minhash Calculations. Used 21.64711308479309 seconds
+Xiangshi Log: 2020-10-05 18:19:39,881 - INFO: Finished Simhash Calculations. Used 20.508342266082764 seconds
+Xiangshi Log: 2020-10-05 18:20:00,316 - INFO: Finished Cossim Calculations. Used 20.419485807418823 seconds
+Xiangshi Log: 2020-10-05 18:25:58,966 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 18:26:29,836 - INFO: Finished Minhash Calculations. Used 30.87019920349121 seconds
+Xiangshi Log: 2020-10-05 18:26:58,222 - INFO: Finished Simhash Calculations. Used 28.385751962661743 seconds
+Xiangshi Log: 2020-10-05 18:27:21,017 - INFO: Finished Cossim Calculations. Used 22.79402756690979 seconds
+Xiangshi Log: 2020-10-05 18:29:34,565 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 18:29:58,202 - INFO: Finished Minhash Calculations. Used 23.636080503463745 seconds
+Xiangshi Log: 2020-10-05 18:30:20,585 - INFO: Finished Simhash Calculations. Used 22.38249969482422 seconds
+Xiangshi Log: 2020-10-05 18:30:43,155 - INFO: Finished Cossim Calculations. Used 22.56879186630249 seconds
+Xiangshi Log: 2020-10-05 18:32:12,281 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 18:32:19,962 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 18:33:11,444 - INFO: Finished Minhash Calculations. Used 51.48233723640442 seconds
+Xiangshi Log: 2020-10-05 18:33:51,426 - INFO: Finished Simhash Calculations. Used 39.980047941207886 seconds
+Xiangshi Log: 2020-10-05 18:34:29,591 - INFO: Finished Cossim Calculations. Used 38.162487745285034 seconds
+Xiangshi Log: 2020-10-05 18:34:56,933 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 18:35:20,958 - INFO: Finished Minhash Calculations. Used 24.02455186843872 seconds
+Xiangshi Log: 2020-10-05 18:35:44,146 - INFO: Finished Simhash Calculations. Used 23.18703603744507 seconds
+Xiangshi Log: 2020-10-05 18:36:05,339 - INFO: Finished Cossim Calculations. Used 21.19072651863098 seconds
+Xiangshi Log: 2020-10-05 18:39:18,821 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-05 18:39:43,157 - INFO: Finished Cossim Calculations. Used 24.336210012435913 seconds
+Xiangshi Log: 2020-10-05 18:40:10,332 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-06 08:36:49,400 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-06 08:37:01,437 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-06 08:37:18,692 - INFO: Finished Cossim Calculations. Used 17.255069732666016 seconds
+Xiangshi Log: 2020-10-06 08:40:46,096 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-06 08:43:47,739 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-06 08:43:55,819 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-06 08:44:07,328 - INFO: Finished Cossim Calculations. Used 11.50821328163147 seconds
+Xiangshi Log: 2020-10-06 08:44:39,056 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-06 08:44:56,238 - INFO: Finished Cossim Calculations. Used 17.182039499282837 seconds
+Xiangshi Log: 2020-10-06 08:45:48,963 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-06 08:46:12,795 - INFO: Finished Cossim Calculations. Used 23.83128571510315 seconds
+Xiangshi Log: 2020-10-06 15:55:08,983 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-06 15:55:29,282 - INFO: Finished Minhash Calculations. Used 20.299310445785522 seconds
+Xiangshi Log: 2020-10-06 15:56:30,506 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-06 15:56:42,875 - INFO: Finished Minhash Calculations. Used 12.368580102920532 seconds
+Xiangshi Log: 2020-10-06 15:56:49,536 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-06 15:57:00,916 - INFO: Finished Minhash Calculations. Used 11.379838466644287 seconds
+Xiangshi Log: 2020-10-06 15:58:06,083 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-06 15:58:25,002 - INFO: Finished Minhash Calculations. Used 18.918997526168823 seconds
+Xiangshi Log: 2020-10-06 15:58:55,304 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-06 15:59:12,388 - INFO: Finished Minhash Calculations. Used 17.084075212478638 seconds
+Xiangshi Log: 2020-10-06 15:59:37,819 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-06 15:59:52,685 - INFO: Finished Minhash Calculations. Used 14.866185426712036 seconds
+Xiangshi Log: 2020-10-07 08:29:27,669 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-07 08:29:38,176 - INFO: Finished Minhash Calculations. Used 10.506638288497925 seconds
+Xiangshi Log: 2020-10-07 08:36:47,824 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-07 08:36:58,536 - INFO: Finished Minhash Calculations. Used 10.71235179901123 seconds
+Xiangshi Log: 2020-10-07 08:37:08,839 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-07 08:37:19,399 - INFO: Finished Minhash Calculations. Used 10.559775352478027 seconds
+Xiangshi Log: 2020-10-07 08:38:17,461 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-07 08:38:17,464 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-07 08:38:17,464 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-07 08:38:28,170 - INFO: Finished Minhash Calculations. Used 10.705488681793213 seconds
+Xiangshi Log: 2020-10-07 08:38:28,170 - INFO: Finished Minhash Calculations. Used 10.705488681793213 seconds
+Xiangshi Log: 2020-10-07 08:38:28,171 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-07 08:38:28,171 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-07 08:38:38,578 - INFO: Finished Cossim Calculations. Used 10.406529664993286 seconds
+Xiangshi Log: 2020-10-07 08:38:38,578 - INFO: Finished Cossim Calculations. Used 10.406529664993286 seconds
+Xiangshi Log: 2020-10-07 08:39:21,678 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-07 08:39:21,679 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-07 08:39:21,679 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-07 08:39:31,627 - INFO: Finished Minhash Calculations. Used 9.948143482208252 seconds
+Xiangshi Log: 2020-10-07 08:39:31,627 - INFO: Finished Minhash Calculations. Used 9.948143482208252 seconds
+Xiangshi Log: 2020-10-07 08:39:31,628 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-07 08:39:31,628 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-07 08:39:41,613 - INFO: Finished Cossim Calculations. Used 9.98489785194397 seconds
+Xiangshi Log: 2020-10-07 08:39:41,613 - INFO: Finished Cossim Calculations. Used 9.98489785194397 seconds
+Xiangshi Log: 2020-10-07 08:39:58,897 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-07 08:39:58,906 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-07 08:39:58,906 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-07 08:40:10,149 - INFO: Finished Cossim Calculations. Used 11.24330186843872 seconds
+Xiangshi Log: 2020-10-07 08:40:10,149 - INFO: Finished Cossim Calculations. Used 11.24330186843872 seconds
+Xiangshi Log: 2020-10-07 08:40:54,201 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-07 08:41:24,503 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-07 08:41:24,507 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-07 08:41:24,507 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-07 08:41:35,026 - INFO: Finished Cossim Calculations. Used 10.519019365310669 seconds
+Xiangshi Log: 2020-10-07 08:41:35,026 - INFO: Finished Cossim Calculations. Used 10.519019365310669 seconds
+Xiangshi Log: 2020-10-07 17:11:01,183 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-07 17:11:09,970 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-07 17:11:24,221 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-07 17:11:40,070 - INFO: Finished Cossim Calculations. Used 15.837052583694458 seconds
+Xiangshi Log: 2020-10-07 17:13:22,643 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-07 17:13:28,110 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-07 17:13:40,173 - INFO: Finished Cossim Calculations. Used 12.05178427696228 seconds
+Xiangshi Log: 2020-10-08 08:29:11,552 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-08 08:29:31,491 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-08 08:29:34,830 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-08 08:29:54,289 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-08 08:30:00,559 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-08 08:30:03,524 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-08 08:30:42,556 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-08 08:30:42,556 - INFO: Finished Ngram Calculations. Used 0.0 seconds
+Xiangshi Log: 2020-10-08 08:30:56,320 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-08 08:30:56,320 - INFO: Finished Ngram Calculations. Used 0.0 seconds
+Xiangshi Log: 2020-10-08 08:31:29,131 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-08 08:31:29,131 - INFO: Finished Ngram Calculations. Used 0.0 seconds
+Xiangshi Log: 2020-10-08 08:31:38,149 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-08 08:31:38,149 - INFO: Finished Ngram Calculations. Used 0.0 seconds
+Xiangshi Log: 2020-10-08 08:31:46,251 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-08 08:31:46,251 - INFO: Finished Ngram Calculations. Used 0.0 seconds
+Xiangshi Log: 2020-10-08 08:31:52,569 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-08 08:31:52,569 - INFO: Finished Ngram Calculations. Used 0.0 seconds
+Xiangshi Log: 2020-10-08 08:31:58,446 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-08 08:31:58,446 - INFO: Finished Ngram Calculations. Used 0.0 seconds
+Xiangshi Log: 2020-10-08 08:32:05,278 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-08 08:32:05,278 - INFO: Finished Ngram Calculations. Used 0.0 seconds
+Xiangshi Log: 2020-10-08 08:32:09,640 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-08 08:32:09,640 - INFO: Finished Ngram Calculations. Used 0.0 seconds
+Xiangshi Log: 2020-10-08 08:32:14,096 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-08 08:32:14,096 - INFO: Finished Ngram Calculations. Used 0.0 seconds
+Xiangshi Log: 2020-10-08 08:33:12,072 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-08 08:33:12,072 - INFO: Finished Ngram Calculations. Used 0.0 seconds
+Xiangshi Log: 2020-10-08 08:33:32,515 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-08 08:33:32,515 - INFO: Finished Ngram Calculations. Used 0.0 seconds
+Xiangshi Log: 2020-10-08 08:33:38,329 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-08 08:33:38,329 - INFO: Finished Ngram Calculations. Used 0.0 seconds
+Xiangshi Log: 2020-10-08 08:33:58,460 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-08 08:33:58,460 - INFO: Finished Ngram Calculations. Used 0.0 seconds
+Xiangshi Log: 2020-10-08 08:35:23,569 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-08 08:36:23,726 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-08 08:36:57,126 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-08 08:37:27,943 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-08 08:37:45,880 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-08 08:37:59,441 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-08 08:38:17,096 - ERROR: Signature unequal
+Xiangshi Log: 2020-10-08 08:38:57,533 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-08 08:39:07,882 - ERROR: Signature unequal
+Xiangshi Log: 2020-10-08 08:42:11,705 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-08 08:42:27,674 - ERROR: Signature unequal
+Xiangshi Log: 2020-10-08 08:43:07,791 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-08 08:43:18,046 - ERROR: Signature unequal
+Xiangshi Log: 2020-10-09 14:49:39,276 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-09 14:49:50,899 - ERROR: Signature unequal
+Xiangshi Log: 2020-10-09 14:50:02,428 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-09 14:55:28,528 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-09 14:56:51,615 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-09 14:57:31,445 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-09 14:58:31,938 - ERROR: Signature unequal
+Xiangshi Log: 2020-10-09 14:59:46,836 - ERROR: Signature unequal
+Xiangshi Log: 2020-10-09 15:01:00,015 - ERROR: Signature unequal
+Xiangshi Log: 2020-10-09 15:02:15,645 - ERROR: Signature unequal
+Xiangshi Log: 2020-10-09 15:03:30,097 - ERROR: Signature unequal
+Xiangshi Log: 2020-10-09 15:04:45,454 - ERROR: Signature unequal
+Xiangshi Log: 2020-10-09 15:05:57,478 - ERROR: Signature unequal
+Xiangshi Log: 2020-10-09 15:07:12,178 - ERROR: Signature unequal
+Xiangshi Log: 2020-10-09 15:08:17,672 - ERROR: Signature unequal
+Xiangshi Log: 2020-10-09 15:08:52,012 - ERROR: Signature unequal
+Xiangshi Log: 2020-10-09 15:09:58,344 - ERROR: Signature unequal
+Xiangshi Log: 2020-10-09 15:11:14,375 - ERROR: Signature unequal
+Xiangshi Log: 2020-10-09 15:12:35,235 - ERROR: Signature unequal
+Xiangshi Log: 2020-10-09 15:14:02,202 - ERROR: Signature unequal
+Xiangshi Log: 2020-10-09 15:15:17,171 - ERROR: Signature unequal
+Xiangshi Log: 2020-10-09 15:16:01,545 - ERROR: Signature unequal
+Xiangshi Log: 2020-10-09 15:17:22,076 - ERROR: Signature unequal
+Xiangshi Log: 2020-10-09 15:18:38,266 - ERROR: Signature unequal
+Xiangshi Log: 2020-10-09 15:19:49,727 - ERROR: Signature unequal
+Xiangshi Log: 2020-10-09 15:21:05,780 - ERROR: Signature unequal
+Xiangshi Log: 2020-10-09 15:22:08,189 - ERROR: Signature unequal
+Xiangshi Log: 2020-10-09 20:42:42,063 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-09 20:44:30,959 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-09 20:44:30,959 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-09 20:44:30,959 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-09 20:44:51,058 - INFO: Finished Cossim Calculations. Used 10.137945175170898 seconds
+Xiangshi Log: 2020-10-09 20:44:51,058 - INFO: Finished Cossim Calculations. Used 10.137945175170898 seconds
+Xiangshi Log: 2020-10-09 20:49:26,514 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-09 20:49:39,486 - INFO: Finished Cossim Calculations. Used 10.889574527740479 seconds
+Xiangshi Log: 2020-10-09 20:49:45,076 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-09 20:50:53,999 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-09 20:56:52,911 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-09 20:57:40,305 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-09 21:03:01,711 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-09 21:03:01,712 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-09 21:03:01,712 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-09 21:04:14,329 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-09 21:05:35,178 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-09 21:05:58,300 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-09 21:06:56,604 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-09 21:09:10,388 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-10 19:39:28,305 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-10 19:39:28,306 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-10 19:39:28,306 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-10 19:43:25,156 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-10 19:43:25,156 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-10 19:43:25,156 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-10 19:44:02,954 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-10 19:44:02,954 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-10 19:44:02,954 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-10 20:01:00,898 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-10 20:01:29,750 - ERROR: Signature unequal
+Xiangshi Log: 2020-10-10 20:01:29,751 - INFO: Finished Minhash Calculations. Used 26.725484132766724 seconds
+Xiangshi Log: 2020-10-10 20:02:04,988 - INFO: Finished Simhash Calculations. Used 20.169814825057983 seconds
+Xiangshi Log: 2020-10-10 20:02:53,164 - INFO: Finished Simhash Calculations. Used 19.708945512771606 seconds
+Xiangshi Log: 2020-10-10 20:03:58,668 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-10 20:04:32,208 - ERROR: Signature unequal
+Xiangshi Log: 2020-10-10 20:04:32,208 - INFO: Finished Minhash Calculations. Used 23.863741874694824 seconds
+Xiangshi Log: 2020-10-10 20:06:39,555 - INFO: Finished Cossim Calculations. Used 34.888444662094116 seconds
+Xiangshi Log: 2020-10-10 20:07:46,677 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 09:18:41,841 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 09:18:41,842 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 09:18:41,842 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 09:19:17,123 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 09:19:17,123 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 09:19:17,123 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 09:19:39,775 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 09:19:39,775 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 09:19:39,775 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 09:19:45,867 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 09:19:45,867 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 09:19:45,867 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 09:20:38,393 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 09:20:38,393 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 09:20:38,393 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 09:21:11,779 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 09:21:11,779 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 09:21:11,779 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 09:22:07,850 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 09:22:07,850 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 09:22:07,850 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 09:22:16,594 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 09:22:16,594 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 09:22:16,594 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 09:23:07,491 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 09:23:07,492 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 09:23:07,492 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 09:23:20,157 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 09:23:20,157 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 09:23:20,157 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 09:23:32,540 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 09:23:32,540 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 09:23:32,540 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 10:22:14,516 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 10:22:33,621 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 10:23:03,744 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 10:23:32,836 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 10:24:17,654 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 10:24:53,864 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 10:25:43,115 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 10:28:31,110 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 10:31:09,432 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 10:33:55,161 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 10:34:32,201 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 10:35:32,507 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 10:36:33,260 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 10:38:05,064 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 10:40:12,346 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 10:40:35,215 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 10:41:09,163 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 10:41:38,512 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 10:42:37,194 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 10:49:16,179 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 10:49:42,389 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 10:53:21,677 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 10:54:06,995 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 10:56:44,972 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 10:57:50,989 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 10:58:18,108 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-11 10:59:07,961 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-12 13:12:18,721 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-12 13:12:33,600 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-12 13:13:46,797 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-12 13:14:02,234 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-12 13:16:03,923 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-12 13:16:10,972 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-12 13:17:25,093 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-12 13:17:25,095 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-12 13:17:25,095 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-12 13:17:25,095 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-12 13:17:25,095 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-12 13:17:41,238 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-12 13:17:41,245 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-12 13:17:41,245 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-12 13:17:41,245 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-12 13:17:41,245 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-12 19:16:49,626 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-12 19:17:06,068 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-12 19:27:20,665 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-12 19:29:55,260 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-12 19:29:55,260 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-12 19:29:55,260 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-12 19:29:55,260 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-12 19:29:55,260 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-12 19:29:55,260 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-12 19:30:13,293 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-12 19:30:13,293 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-12 19:30:13,293 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-12 19:30:13,293 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-12 19:30:13,293 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-12 19:30:13,293 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-13 10:30:44,158 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-13 10:30:44,158 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-13 10:30:44,158 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-13 10:30:44,158 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-13 10:30:44,158 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-13 10:30:44,158 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-13 11:36:57,273 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-13 11:36:57,273 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-13 11:36:57,274 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-13 11:36:57,274 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-13 11:36:57,274 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-13 11:36:57,274 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-13 11:37:26,926 - INFO: Finished Cossim Calculations. Used 9.76480746269226 seconds
+Xiangshi Log: 2020-10-13 11:37:26,926 - INFO: Finished Cossim Calculations. Used 9.76480746269226 seconds
+Xiangshi Log: 2020-10-14 15:02:14,193 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-14 15:02:22,672 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-14 15:02:53,546 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-14 15:05:22,850 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-14 15:05:41,822 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-14 15:05:56,497 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-14 15:07:32,985 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-14 15:10:28,825 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-14 15:10:47,420 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-14 15:11:01,634 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-14 16:19:21,923 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-14 16:19:44,433 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-14 16:20:47,666 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-14 19:11:50,253 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-14 19:15:58,603 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-14 19:18:01,056 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-14 19:18:53,452 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-14 19:19:38,333 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-14 19:24:32,906 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-14 19:24:52,739 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-14 19:25:04,728 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-14 19:25:50,484 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-14 19:27:16,507 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-14 19:28:26,459 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-14 19:32:46,996 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-14 19:40:14,381 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-14 19:41:12,799 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-14 19:41:36,703 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-14 19:42:09,651 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-14 19:42:24,004 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-14 19:43:39,382 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-14 19:44:19,583 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-14 19:45:39,653 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-14 19:47:50,729 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-15 11:41:17,693 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-17 17:09:58,388 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-17 17:10:08,111 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-17 17:21:42,769 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-17 17:30:02,401 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-17 18:51:41,990 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-17 18:51:41,990 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-17 18:51:41,990 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-17 18:51:41,990 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-17 18:51:41,990 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-17 18:51:41,990 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-17 18:51:47,560 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-17 18:52:18,676 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-17 18:53:28,206 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-17 19:03:15,613 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-17 19:03:34,028 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-17 19:04:07,317 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-17 19:04:30,226 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:29:46,276 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:29:46,276 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:29:46,277 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:29:46,277 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:29:46,277 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:29:46,277 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:41:31,430 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:41:31,430 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:41:31,430 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:41:31,430 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:41:31,430 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:41:31,430 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:42:41,988 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:42:41,988 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:42:41,989 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:42:41,989 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:42:41,989 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:42:41,989 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:43:17,798 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:43:17,798 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:43:17,798 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:43:17,798 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:43:17,798 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:43:17,798 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:46:01,959 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:46:01,959 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:46:01,960 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:46:01,960 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:46:01,960 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:46:01,960 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:47:12,655 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:47:12,655 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:47:12,655 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:47:12,655 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:47:12,655 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:47:12,655 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:50:09,301 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:50:09,301 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:50:09,301 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:50:09,301 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:50:09,301 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:50:09,301 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:52:45,396 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:52:45,396 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:52:45,397 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:52:45,397 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:52:45,397 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:52:45,397 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:56:03,645 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:56:21,941 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:59:19,981 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 19:59:36,532 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 20:00:34,842 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 20:00:42,393 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 20:03:19,776 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 20:05:22,872 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 20:07:27,167 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 20:08:38,906 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 20:11:00,794 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 20:14:59,036 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 20:17:12,293 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 20:17:25,007 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 20:19:37,905 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 20:24:11,154 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-19 21:28:12,550 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-20 12:33:24,789 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-20 12:34:28,180 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-20 12:34:47,448 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-20 12:35:48,213 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-20 12:39:42,578 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-20 12:40:05,598 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-20 12:41:57,605 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-20 12:43:56,649 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-20 14:58:43,055 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-20 15:11:11,844 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-20 15:11:25,639 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-20 15:12:13,964 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-20 15:12:33,024 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 10:04:28,761 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 10:05:09,999 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 10:05:49,771 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 10:39:45,939 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 10:43:53,621 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 10:45:25,022 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 10:45:55,969 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 10:46:10,803 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 10:46:48,430 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 11:15:12,530 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 11:17:01,505 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 11:32:24,442 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 11:33:06,005 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 13:23:24,648 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 13:23:32,291 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 13:24:44,606 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 13:24:53,759 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 13:25:17,582 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 13:25:23,452 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 13:25:38,063 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 13:25:45,968 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 13:30:55,705 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 13:30:59,840 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 13:33:04,031 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 13:33:08,254 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 14:29:29,129 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 14:29:36,433 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 14:29:57,529 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 14:30:05,013 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 14:32:05,890 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 14:32:14,078 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 14:36:42,355 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 14:36:48,427 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 14:36:54,903 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 14:37:01,284 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 14:37:33,234 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 14:37:40,989 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 15:02:54,157 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 15:03:31,830 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 15:05:11,235 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 15:06:06,593 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 15:06:20,026 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 15:10:02,969 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 15:10:13,459 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 15:10:35,539 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 16:25:11,291 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 16:27:23,302 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 16:29:54,372 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 16:32:08,171 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 16:32:35,557 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 16:32:44,451 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 16:33:11,497 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 16:33:31,158 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 16:33:31,158 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 16:33:31,159 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 16:33:31,159 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 16:33:31,159 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 16:33:31,159 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 16:35:04,765 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 16:35:04,765 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 16:35:04,765 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 16:35:04,765 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 16:35:04,766 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 16:35:04,766 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 16:36:24,143 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:24:22,354 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:24:22,354 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:24:22,355 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:24:22,355 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:24:22,355 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:24:22,355 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:25:02,324 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:25:02,324 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:25:34,110 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:25:34,110 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:25:34,111 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:25:34,111 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:25:34,111 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:25:34,111 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:25:49,203 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:25:49,203 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:25:49,203 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:25:49,203 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:25:49,203 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:25:49,203 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:26:15,282 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:26:20,664 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:26:40,851 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:26:40,851 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:26:40,851 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:26:40,851 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:26:40,851 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:26:40,851 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:27:42,027 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:27:42,027 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:27:42,027 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:27:42,027 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:27:42,027 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:27:42,027 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:31:04,102 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:34:37,099 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:34:37,099 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:34:37,099 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:34:37,099 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:34:37,099 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:34:37,099 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-21 20:38:21,912 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-22 11:23:01,114 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-22 11:23:01,114 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-22 11:23:01,115 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-22 11:23:01,115 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-22 11:23:01,115 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-22 11:23:01,115 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-22 11:23:09,732 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-22 11:24:52,977 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-22 11:25:15,423 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-22 11:25:33,951 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-22 13:20:11,398 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-22 13:20:48,237 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-22 13:21:17,859 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-22 13:21:53,735 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-22 13:25:46,769 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-22 13:27:21,254 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-22 13:28:08,337 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-22 13:28:47,007 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-22 13:32:18,562 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-22 13:40:58,192 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-22 13:41:17,118 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-22 13:44:37,155 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-22 13:45:17,725 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-22 13:46:48,560 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-22 13:48:59,300 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-22 14:04:15,968 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-22 14:04:26,774 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-22 14:04:35,145 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-22 14:06:24,240 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-22 14:15:11,082 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-22 14:16:47,307 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-22 14:16:53,756 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-22 14:17:32,887 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-22 14:17:46,616 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-22 16:30:14,655 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-23 11:29:02,527 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-23 11:29:02,528 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-23 11:30:06,468 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-23 11:30:06,468 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-23 11:30:15,581 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-23 11:30:15,582 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-23 11:30:39,668 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-23 11:30:39,668 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-23 11:30:51,089 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-23 11:32:13,750 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-23 11:33:26,979 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-23 11:33:38,007 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-23 11:33:38,007 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-23 11:36:14,534 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-23 11:36:14,534 - INFO: Starting up Xiangshi Weight
+Xiangshi Log: 2020-10-23 14:13:04,672 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-23 14:13:04,678 - INFO: Starting up Xiangshi Weight
+Xiangshi Log: 2020-10-23 14:13:41,103 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-23 14:13:41,103 - INFO: Starting up Xiangshi Weight
+Xiangshi Log: 2020-10-25 14:58:01,564 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:00:02,621 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:02:20,954 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:02:55,551 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:05:36,755 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:06:03,745 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:07:45,356 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:08:10,987 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:09:36,664 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:10:54,927 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:13:16,558 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:14:25,347 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:14:33,423 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:14:56,295 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:15:07,710 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:16:52,280 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:19:00,903 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:19:47,168 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:21:23,185 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:21:39,617 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:22:07,146 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:22:22,994 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:23:10,640 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:23:35,533 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:24:09,817 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:24:49,001 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:25:47,147 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:26:34,030 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:26:59,543 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:27:24,807 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:30:28,711 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:30:38,192 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:31:27,541 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:32:44,060 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:34:05,533 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:36:14,043 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:37:56,070 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:39:03,497 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:42:58,023 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:43:19,028 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:43:48,455 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:45:38,372 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:46:23,482 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:46:32,384 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:48:34,339 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:50:37,614 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:53:54,802 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:55:29,220 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:55:29,220 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:55:29,220 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:55:29,220 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:55:29,220 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:55:29,220 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:55:58,970 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:55:58,970 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:55:58,970 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:55:58,970 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:55:58,970 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:55:58,970 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:56:50,732 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:57:53,048 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:58:55,683 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 15:59:20,570 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:06:28,002 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:07:38,394 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:08:37,782 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:11:44,862 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:12:08,191 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:12:24,426 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:12:33,110 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:14:48,868 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:15:19,168 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:16:48,130 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:17:37,518 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:18:17,836 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:19:47,330 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:21:25,852 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:21:34,951 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:21:40,748 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:21:47,750 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:23:47,801 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:24:01,948 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:24:19,154 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:24:28,952 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:24:56,030 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:25:33,114 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:25:46,975 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:25:54,935 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:26:00,663 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:26:59,161 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:27:05,744 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:27:20,596 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:28:31,930 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:28:31,930 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:28:31,930 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:28:31,930 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:28:31,930 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:28:31,930 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:29:04,017 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:35:07,195 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:35:16,353 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:35:36,240 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:35:54,380 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:36:09,680 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:36:46,455 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:36:57,363 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 16:37:13,004 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 17:57:24,191 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 17:57:50,131 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 17:59:42,042 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 18:02:32,676 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 18:03:56,941 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 18:04:01,632 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 18:05:27,544 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 18:05:34,044 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 18:06:57,181 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 18:22:42,643 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 18:22:48,280 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 18:23:23,510 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 18:24:04,559 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 18:24:53,391 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 18:25:55,624 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 19:03:18,526 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 19:04:44,926 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-25 19:10:48,722 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 16:17:17,568 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 16:18:05,065 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 16:20:31,975 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 16:50:53,589 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 16:51:28,486 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 16:52:38,766 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 16:52:59,831 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 16:54:33,671 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 16:55:33,437 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 16:56:15,705 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 16:56:59,012 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 16:57:43,201 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 16:58:06,148 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 16:58:28,467 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 16:59:19,104 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 17:00:52,058 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 17:02:12,451 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 17:03:57,500 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 17:15:00,733 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 17:15:11,393 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 17:16:20,401 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 17:16:41,737 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 17:19:47,653 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 17:20:03,505 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 17:20:05,390 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 17:20:43,901 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 17:25:38,603 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 17:25:52,812 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 17:26:56,702 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 17:27:26,299 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 17:27:42,619 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 17:28:51,040 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 18:17:54,958 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 18:18:33,992 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 18:19:43,339 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 18:19:47,827 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 18:21:41,145 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 18:24:23,029 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 18:26:37,110 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 18:27:47,575 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 18:29:54,771 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 18:30:58,091 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 18:55:04,786 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 18:55:24,631 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 18:58:32,352 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 18:58:49,392 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 19:00:21,709 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 19:04:54,005 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 19:07:44,931 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 19:10:17,408 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 19:12:46,419 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 19:17:48,159 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 19:22:24,590 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 19:27:31,344 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 19:35:57,930 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 19:39:36,221 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 19:43:29,124 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 21:44:15,305 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-26 21:44:40,649 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-27 08:41:52,647 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-27 08:43:38,095 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-27 14:27:27,954 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-27 14:28:35,852 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-27 14:29:29,669 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-27 14:33:43,239 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-27 17:54:49,461 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-27 18:03:50,838 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-27 21:16:26,261 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-27 21:17:46,502 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-27 21:21:32,725 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-27 21:33:08,955 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-27 21:34:39,536 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-27 21:35:47,420 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-27 21:36:40,020 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-27 21:38:40,775 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-27 21:39:27,903 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-27 21:42:24,145 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 12:14:03,539 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 12:15:18,128 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 12:17:07,283 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 12:18:28,871 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 12:19:25,019 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 12:20:58,674 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 12:22:16,639 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 12:24:07,841 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 12:25:44,585 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 12:26:52,591 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 14:28:22,143 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 15:09:12,334 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 15:10:08,248 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 16:35:32,556 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 16:36:51,710 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 16:38:20,652 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 16:38:42,418 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 16:39:23,383 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 16:41:19,416 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 16:42:30,545 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 16:42:38,436 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 16:42:54,058 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 16:43:00,655 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 16:51:13,683 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 16:54:00,520 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 16:54:00,520 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 16:54:00,521 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 16:54:00,521 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 16:54:00,521 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 16:54:00,521 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 17:03:59,757 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 17:04:40,291 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 17:05:44,853 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 17:05:57,949 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 17:06:57,856 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 17:07:22,666 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 17:07:49,588 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 17:08:39,023 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 17:08:39,023 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 17:10:26,594 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 17:10:26,594 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 17:10:47,549 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 17:10:47,549 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 17:11:10,834 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 17:14:11,093 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 17:16:26,738 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 17:16:26,738 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 17:16:26,738 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 17:16:26,738 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 17:16:26,738 - INFO: Starting up Xiangshi
+Xiangshi Log: 2020-10-28 17:16:26,738 - INFO: Starting up Xiangshi
